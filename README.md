@@ -1,1 +1,0 @@
-# acoustic_model1
